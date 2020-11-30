@@ -16,3 +16,4 @@ utilisées pour couvrir les bases du langage de programmation Python.
 Il y aura 4 semaines en tout.
 
 - [Semaine 01 (PDF)](https://github.com/enormandeau/intro_python_2020/raw/master/intro_python_2020_semaine_01.pdf)
+- [Semaine 02 (PDF)](https://github.com/enormandeau/intro_python_2020/raw/master/intro_python_2020_semaine_02.pdf)
