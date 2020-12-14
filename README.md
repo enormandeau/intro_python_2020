@@ -18,3 +18,4 @@ Il y aura 4 semaines en tout.
 - [Semaine 01 (PDF)](https://github.com/enormandeau/intro_python_2020/raw/master/intro_python_2020_semaine_01.pdf)
 - [Semaine 02 (PDF)](https://github.com/enormandeau/intro_python_2020/raw/master/intro_python_2020_semaine_02.pdf)
 - [Semaine 03 (PDF)](https://github.com/enormandeau/intro_python_2020/raw/master/intro_python_2020_semaine_03.pdf)
+- [Semaine 04 (PDF)](https://github.com/enormandeau/intro_python_2020/raw/master/intro_python_2020_semaine_04.pdf)
